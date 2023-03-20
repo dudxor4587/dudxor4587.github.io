@@ -1,0 +1,18 @@
+main:
+  #- title: "Home"
+  #  url: "/"
+  #- title: "Introduce"
+  #  url: /about/
+  - title: "Category"
+    url: "/categories/"
+  #- title: "Tags"
+  #  url: /tags/
+sidebar-category:
+  - title: "🖥️"
+    children:
+      - title: "C"
+        url: "/C"
+        category: "C"
+      - title: "Java"
+        url:  "/Java"
+        category: "Java"
