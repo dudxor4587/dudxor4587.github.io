@@ -293,3 +293,5 @@ defaults:
       related: true
       sidebar:                  # 추가한 부분
         nav: "sidebar-category" # 추가한 부분
+      toc: true
+      toc_sticky: true
